@@ -36,7 +36,8 @@
 
 ![SignUp](/images/signup.png)
 ![Login](/images/login.png)
-![ChangePassword](/images/change-password.png)
+![ChangePassword](/images/changepassword.png)
+
 
 ---
 
